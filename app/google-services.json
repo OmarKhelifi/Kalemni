@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136737423501",
+    "project_id": "kalemni-be679",
+    "storage_bucket": "kalemni-be679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136737423501:android:11d3a73788dd21992de2c4",
+        "android_client_info": {
+          "package_name": "com.example.kalemni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136737423501-vjfq3ekhj0pu7h7qom73vljt9orogcag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwhj2ojpBU_-CZbCVZj-9EocTZMY7nCwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136737423501-vjfq3ekhj0pu7h7qom73vljt9orogcag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
